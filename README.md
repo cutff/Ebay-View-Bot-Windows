@@ -13,3 +13,8 @@ Pricing: $13.99
 
 ## Paid Version?
 I am selling a paid version of this bot with Lifetime Support and free Ebay advice. I have a ton of experience f*cking with ebay and I'm able to help anyone grow their store :)
+
+## Mac/Linux?
+I have completely recoded this project in Python for OS Wide Support. If you would like a download just message me and I will get back to you! 
+
+- Discord: Timothyy#6466
