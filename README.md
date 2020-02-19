@@ -17,4 +17,7 @@ I am selling a paid version of this bot with Lifetime Support and free Ebay advi
 ## Mac/Linux?
 I have completely recoded this project in Python for OS Wide Support. If you would like a download just message me and I will get back to you! 
 
-- Discord: Timothyy#6466
+Video of it in action!
+- https://www.youtube.com/watch?v=s2xmuWYlato
+
+Discord: Timothyy#6466
