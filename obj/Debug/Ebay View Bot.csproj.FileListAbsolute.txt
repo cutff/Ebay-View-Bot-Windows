@@ -1,0 +1,18 @@
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\bin\Debug\Ebay View Bot.exe.config
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\bin\Debug\Ebay View Bot.exe
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\bin\Debug\Ebay View Bot.pdb
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\obj\Debug\Ebay_View_Bot.Main.resources
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\obj\Debug\Ebay_View_Bot.Properties.Resources.resources
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\obj\Debug\Ebay View Bot.csproj.GenerateResource.cache
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\obj\Debug\Ebay View Bot.exe
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\obj\Debug\Ebay View Bot.pdb
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\obj\Debug\Ebay View Bot.csproj.CopyComplete
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\bin\Debug\Ebay View Bot.exe.manifest
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\bin\Debug\Ebay View Bot.application
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\obj\Debug\Ebay View Bot.TrustInfo.xml
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\obj\Debug\Ebay View Bot.exe.manifest
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\obj\Debug\Ebay View Bot.application
+C:\Users\Joel\source\repos\EbayViewBot\Ebay View Bot\obj\Debug\Ebay View Bot.csprojAssemblyReference.cache
