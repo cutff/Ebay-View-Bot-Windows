@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ebay View Bot.exe" size="503256">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ebay View Bot.exe" size="504792">
       <assemblyIdentity name="Ebay View Bot" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Gcw9pTvXSzXuHyc/H/AA1C7PkyU/XB1BhxwKRK2LfJk=</dsig:DigestValue>
+        <dsig:DigestValue>wPP2L0AL2pLv6vVOMBYiqJrw9KO+QsGKUeTQxbw/Eoc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -291,5 +291,10 @@ namespace Ebay_View_Bot
         {
             nameLookup = !nameLookup;
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://hackforums.net/member.php?action=profile&uid=3790579");
+        }
     }
 }
