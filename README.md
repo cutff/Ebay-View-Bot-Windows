@@ -19,8 +19,12 @@ Pricing: $13.99
 
 <img src="https://i.ibb.co/vdBsv1L/dbf09a2ef5d0e09f69ec1e97f5502fb9.png">
 
-## Paid Version?
-I am selling a paid version of this bot with Lifetime Support and free Ebay advice. I have a ton of experience f*cking with ebay and I'm able to help anyone grow their store :)
+## Appreciate the software and wanna buy me a coffee?
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VZFLC3GAW3KCW&source=url">
+  <img src="https://i.ibb.co/HB6LPDP/QR-code.png">
+</a>
+
+(Click to open link.)
 
 ## Mac/Linux?
 I have completely recoded this project in Python for OS Wide Support. The link to this version resides on my Github <a href="https://github.com/gothboiclique/Ebay-View-Bot-MacOS">here</a> :)
